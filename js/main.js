@@ -7,7 +7,7 @@ const productos = [
             nombre:"Res",
             id: "res"
         },
-        precio: 180
+        precio: 165
     },
     {
         id: "2",
@@ -17,7 +17,7 @@ const productos = [
             nombre:"Res",
             id: "res"
         },
-        precio: 190
+        precio: 185
     },
     {
         id: "3",
@@ -27,7 +27,7 @@ const productos = [
             nombre:"Res",
             id: "res"
         },
-        precio: 35
+        precio: 30
     },
     {
         id: "4",
@@ -37,7 +37,7 @@ const productos = [
             nombre:"Res",
             id: "res"
         },
-        precio: 28
+        precio: 26
     },
     {
         id: "5",
@@ -47,17 +47,7 @@ const productos = [
             nombre:"Cerdo",
             id: "cerdo"
         },
-        precio: 50
-    },
-    {
-        id: "6",
-        titulo: "Costilla sin hueso 2lb",
-        imagen: "IMG/5.png",
-        categoria: {
-            nombre:"Cerdo",
-            id: "cerdo"
-        },
-        precio: 50
+        precio: 45
     },
     {
         id: "7",
@@ -70,26 +60,6 @@ const productos = [
         precio: 55
     },
     {
-        id: "8",
-        titulo: "Pierna 1lb (presentaciòn 14-22lb)",
-        imagen: "IMG/9.png",
-        categoria: {
-            nombre:"Promociones",
-            id: "promociones"
-        },
-        precio: 22
-    },
-    {
-        id: "9",
-        titulo: "Pavo 1lb (presentaciòn 10-14lb)",
-        imagen: "IMG/10.png",
-        categoria: {
-            nombre:"Promociones",
-            id: "promociones"
-        },
-        precio: 22
-    },
-    {
         id: "10",
         titulo: "Filete de pechuga 2lb",
         imagen: "IMG/11.png",
@@ -97,7 +67,7 @@ const productos = [
             nombre:"Pollo",
             id: "pollo"
         },
-        precio: 50
+        precio: 55
     }
     
 ];
